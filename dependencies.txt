@@ -1,0 +1,9 @@
+P1:
+In house: None
+External: requests
+P2:
+In house: P1
+External: boto3
+P3:
+In house: P2
+External: None
